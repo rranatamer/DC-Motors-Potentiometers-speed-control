@@ -19,7 +19,7 @@ This Arduino project allows you to control the speed of two DC motors using pote
 - 2 DC motors
 - 2 potentiometers
 - 2 slider switches
-- Motor driver (e.g., L298N)
+- Motor driver 
 - Breadboard and jumper wires
 
 ## Wiring Instructions
