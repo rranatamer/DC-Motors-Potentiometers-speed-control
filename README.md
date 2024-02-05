@@ -60,6 +60,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to customize the README to include any specific details or additional information about your project.
